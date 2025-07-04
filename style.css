@@ -171,9 +171,12 @@ body {
   .features-title {
     margin: 0 0 0.5rem;
     color: #333;
+    font-size: 1.2rem;
+    font-style: bold;
+    font-weight: 900;
   }
 
-  .features-desc {
+  .features-details {
     margin: 0;
     color: #555;
     font-size: 0.95rem;
